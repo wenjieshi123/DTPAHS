@@ -1,2 +1,2 @@
 # DTPAHS
-The code for the HS patients study
+The code and data for the HS patients study
